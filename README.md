@@ -6,4 +6,4 @@ dos Piratas.
 Este projeto foi feito guiando-se pelo canal do Youtube dos irmãos DevEmDobro no qual gravaram lives do projeto
 divididos por 3 partes: html(corpo do site), css(estilo do site), e Js(interatividade no site).
 
-Fiz esse projeto e aprendi e reforcei meus conhecimentos e práticas nessas 3 tecnologias.
+Fiz esse projeto, aprendi e reforcei meus conhecimentos e práticas nessas 3 tecnologias.
