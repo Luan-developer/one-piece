@@ -7,3 +7,5 @@ Este projeto foi feito guiando-se pelo canal do Youtube dos irmãos DevEmDobro n
 divididos por 3 partes: html(corpo do site), css(estilo do site), e Js(interatividade no site).
 
 Fiz esse projeto, aprendi e reforcei meus conhecimentos e práticas nessas 3 tecnologias.
+
+Link do projeto:https://luan-developer.github.io/one-piece/
