@@ -8,4 +8,4 @@ divididos por 3 partes: html(corpo do site), css(estilo do site), e Js(interativ
 
 Fiz esse projeto, aprendi e reforcei meus conhecimentos e práticas nessas 3 tecnologias.
 
-Link do projeto:https://luan-developer.github.io/one-piece/
+Link do projeto: https://luan-developer.github.io/one-piece/
